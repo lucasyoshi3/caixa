@@ -106,8 +106,7 @@ public class Metodos {
         System.out.println("Sobra da nota de 2: "+notas[0]);
         escreva.write("Sobra da nota de 2: "+Integer.toString(notas[0]));
         escreva.newLine();
-        
+
         escreva.close();
-        System.exit(0);
     }
 }

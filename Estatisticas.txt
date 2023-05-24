@@ -1,10 +1,10 @@
-Media de saques:53.0
-Valor total dos saques: 107
-Quanridade de saques: 2
+Media de saques:32.0
+Valor total dos saques: 32
+Quanridade de saques: 1
 Sobra da nota de 200: 100
 Sobra da nota de 100: 100
-Sobra da nota de 50: 99
-Sobra da nota de 20: 98
-Sobra da nota de 10: 100
-Sobra da nota de 5: 99
-Sobra da nota de 2: 94
+Sobra da nota de 50: 100
+Sobra da nota de 20: 99
+Sobra da nota de 10: 99
+Sobra da nota de 5: 100
+Sobra da nota de 2: 99
